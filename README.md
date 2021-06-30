@@ -1,2 +1,2 @@
-# python-pygment-github-lexers
+# python-pygments-github-lexers
 Support for tox
