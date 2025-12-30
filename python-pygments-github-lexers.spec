@@ -1,6 +1,6 @@
 Name:		python-pygments-github-lexers
 Version:	0.0.5
-Release:	3
+Release:	4
 Source0:	https://files.pythonhosted.org/packages/source/p/pygments-github-lexers/pygments-github-lexers-%{version}.tar.gz
 Summary:	Pygments Github custom lexers.
 URL:		https://pypi.org/project/pygments-github-lexers/
